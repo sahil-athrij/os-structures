@@ -1,0 +1,4 @@
+To compile this program run make.
+
+To compile outside the directory -
+g++ -std=c++11 linker.cpp -o linker
